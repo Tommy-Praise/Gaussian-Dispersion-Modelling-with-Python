@@ -69,9 +69,9 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Special thanks to [your name] for developing this project.
+Special thanks to Dr. Babatunde Oladimeji, H.O.D of PHysics Mountain Top University for overseeing this project.
 
